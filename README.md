@@ -1,5 +1,7 @@
 # Nova3DS
 
+**Official instagram page:nova.3dsx**
+
 **Nova** is a project exploring how far a **voxel game can be pushed on the original Nintendo 3DS hardware**.
 
 The game features a small procedurally generated voxel world using **Perlin noise**, where the player can freely wander, explore and place blocks.
@@ -25,7 +27,7 @@ Because the project is developed independently, **slow updates are to be expecte
 
 Nova3DS is completely free to download and use.
 
-The only "cost" is **leaving a star on the GitHub repository** if you enjoy the project or want to support its development.
+The only "cost" is **leaving a star on the GitHub repository** or **follow the instagram page** if you enjoy the project or want to support its development.
 
 It helps the project get noticed and is a simple way to show your support!
 
@@ -40,6 +42,21 @@ It exists primarily to demonstrate the core idea and establish the foundation fo
 
 More features, improvements, and optimizations are planned for future versions.
 
+### v1.1
+**First public working version.**
+This release introduces significant improvements across multiple areas, including smoother gameplay, enhanced performance, and a range of new features and systems.
+
+Key additions and improvements include:
+
+-Gameplay: New inventory system, enemies, weapons, and tools.
+-World Generation: New biomes, seed-based biome generation, and a significantly larger world.
+-Performance: Improvements to overall performance and gameplay smoothness through introduction of the custom NOVA engine.
+-Saving System: A completely redesigned save/load system.
+-Interface: Health bar and metrics overlay.
+-Audio: Music playback support.
+
+For a more detailed breakdown of all changes and improvements, refer to the updates.md file.
+NOVA engine workings and details are explained into the NOVA-engine.md file.
 
 ## World
 
