@@ -49,10 +49,15 @@ This release introduces significant improvements across multiple areas, includin
 Key additions and improvements include:
 
 -Gameplay: New inventory system, enemies, weapons, and tools.
+
 -World Generation: New biomes, seed-based biome generation, and a significantly larger world.
+
 -Performance: Improvements to overall performance and gameplay smoothness through introduction of the custom NOVA engine.
+
 -Saving System: A completely redesigned save/load system.
+
 -Interface: Health bar and metrics overlay.
+
 -Audio: Music playback support.
 
 For a more detailed breakdown of all changes and improvements, refer to the updates.md file.
